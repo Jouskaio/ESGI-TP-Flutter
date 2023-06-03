@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1088008733294",
+    "project_id": "esgi-flutter-13086",
+    "storage_bucket": "esgi-flutter-13086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088008733294:android:686ba4b0367bf5e01a9c7f",
+        "android_client_info": {
+          "package_name": "com.example.esgi_tp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088008733294-t8tnt8okdj2ake0f6rqtm6p70ln76kru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpjK-mnk-c-2l4glot7g9n1IiOS3zEJoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088008733294-t8tnt8okdj2ake0f6rqtm6p70ln76kru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1088008733294-5mletdhrsh817l69evo0pgd59ei862uj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.esgiTpFlutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
